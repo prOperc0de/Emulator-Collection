@@ -1,3 +1,2 @@
-- multitask .bat tool
-- all i can say is...
-- enjoy ;)
+test file for future game implementations
+stay tuned for updates
